@@ -1,2 +1,0 @@
-#tahsin
-_tahsin_

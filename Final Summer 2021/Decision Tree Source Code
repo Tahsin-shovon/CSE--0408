@@ -1,6 +1,3 @@
-
-
-
 # Importing the required packages
 import numpy as np
 import pandas as pd
@@ -105,9 +102,8 @@ def main():
 	cal_accuracy(y_test, y_pred_entropy)
 	
 	
-# Calling main function
-if __name__=="__main__":
-	main()
+# Call main function
+
 
 
 
